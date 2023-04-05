@@ -45,12 +45,19 @@ From our studies of bad HTTP requests to server-side with common attacks such as
         </a><br/>
         <small><b>pprahlada</b></small>
       </td>
+      <td align="center">
+        <a href="https://github.com/hemanthy1">
+        <img src="https://avatars.githubusercontent.com/u/93228803" width="100px;">
+        </a><br/>
+        <small><b>hemanthy1</b></small>
+      </td>
     </tr>
   </tbody>
 </table>
 
 <h2>Who We Are</h2>
 Felipe Marques Allevato | Computer Science | Sophomore | Cybersecurity Lover<br>
+Hemanth Yalamanchili | Computer Science | Junior | Learning Machine Learning<br>
 Felix | Computer Science | Junior | Aspiring Algorithm Engineer<br>
 Pramod Prahlada | Computer Engineering | Junior | Interested in Machine Learning and AI<br>
 Satya Byreddy | Computer Science | Junior | Machine Learning Enthusiast<br>
